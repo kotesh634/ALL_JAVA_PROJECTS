@@ -8,7 +8,11 @@
                     <xs:sequence/>
                 </xs:complexType>
             </xs:element>
+<<<<<<< HEAD
 #hello chg#5           
+=======
+#hello chg#3           
+>>>>>>> parent of 429b62c... second
                 <xs:complexType>
                     <xs:sequence>
                        knameResponse">
