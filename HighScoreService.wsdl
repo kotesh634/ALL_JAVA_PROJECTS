@@ -9,7 +9,11 @@
                 </xs:complexType>
             </xs:element>
 <<<<<<< HEAD
+<<<<<<< HEAD
 #hello chg#5           
+=======
+#hello chg#3           
+>>>>>>> parent of 429b62c... second
 =======
 #hello chg#3           
 >>>>>>> parent of 429b62c... second
